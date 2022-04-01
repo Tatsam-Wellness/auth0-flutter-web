@@ -128,6 +128,7 @@ class RedirectLoginOptions extends BaseLoginOptions {
     String acr_values,
     String scope,
     String audience,
+    String redirect_url,
     String? connection,
     String? organization,
     String? invitation,
